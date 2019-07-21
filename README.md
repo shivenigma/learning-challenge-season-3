@@ -19,3 +19,6 @@
 - [Learnt about keyboard types and obscuring text fields for password fields](https://github.com/shivenigma/flutter-firebase-chat/commit/67fb48e6ae04b7b596a4ad24090b2c5e0bbe85cf)
 - [Finished login and registration positive flow using firebase](https://github.com/shivenigma/flutter-firebase-chat/commit/92e7c3e2f1d23cf858a583ef61ce8a5153b37a3c)
 - [Finished implementing a loading animation when the user waits for async operations](https://github.com/shivenigma/flutter-firebase-chat/commit/0675aad038c73b175ed4c27e620bcf243cafa07e)
+- Finished learning async await in Dart
+- Finished learning try, catch and finally in dart
+
