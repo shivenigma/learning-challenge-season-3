@@ -21,4 +21,7 @@
 - [Finished implementing a loading animation when the user waits for async operations](https://github.com/shivenigma/flutter-firebase-chat/commit/0675aad038c73b175ed4c27e620bcf243cafa07e)
 - Finished learning async await in Dart
 - Finished learning try, catch and finally in dart
+- Finished learning about firebase cloud firestore database and creation
+- Finished learning about streams in Dart
+- Finished learning about StreamBuilder in Flutter
 
