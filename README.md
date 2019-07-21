@@ -10,3 +10,5 @@
 
 ### Day 2
 - [Learnt how to create reusable widgets which are configurable as well](https://github.com/shivenigma/flutter-firebase-chat/commit/c0d55f762776a94fb0526897b4d6f808aba23665)
+- [Learnt about @required for constructor params in dart](https://github.com/shivenigma/flutter-firebase-chat/commit/189eb6ec9c13ed0ab2d4d0e0e355acf8d2548031)
+- Renamed the callback property into more clear onPressed property for readability
