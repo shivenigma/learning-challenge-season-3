@@ -16,3 +16,4 @@
 - [Removed dark theme from the app and added text color of button to white to compensate the appearance](https://github.com/shivenigma/flutter-firebase-chat/commit/f6848039f547cade7bdce9fac54bc9fecfb6c70d)
 - [Introduction to firebase and setting up firebase for flutter android project](https://github.com/shivenigma/flutter-firebase-chat/commit/0cf8ec7add36dfe928369a152baec719878a2097)
 - [Added firebase plugins for flutter and fixed a compatibility issue in the build which resulted build failure before](https://github.com/shivenigma/flutter-firebase-chat/commit/272aed7bfb783745e1ee0fdb16340564b2525feb)
+- [Learnt about keyboard types and obscuring text fields for password fields](https://github.com/shivenigma/flutter-firebase-chat/commit/67fb48e6ae04b7b596a4ad24090b2c5e0bbe85cf)
