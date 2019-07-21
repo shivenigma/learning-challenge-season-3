@@ -13,5 +13,6 @@
 - [Learnt about @required for constructor params in dart](https://github.com/shivenigma/flutter-firebase-chat/commit/189eb6ec9c13ed0ab2d4d0e0e355acf8d2548031)
 - Renamed the callback property into more clear onPressed property for readability
 - [Learnt about Dart copyWith and used it with an constant to reduce repititive code for text box styles](https://github.com/shivenigma/flutter-firebase-chat/commit/602acf142843f8f91442dcd5077bbfb9e506e97c)
-- [Removed dark theme from the app and added text color of button to white to compensate the appearancec](https://github.com/shivenigma/flutter-firebase-chat/commit/f6848039f547cade7bdce9fac54bc9fecfb6c70d)
+- [Removed dark theme from the app and added text color of button to white to compensate the appearance](https://github.com/shivenigma/flutter-firebase-chat/commit/f6848039f547cade7bdce9fac54bc9fecfb6c70d)
+- [Introduction to firebase and setting up firebase for flutter android project](https://github.com/shivenigma/flutter-firebase-chat/commit/0cf8ec7add36dfe928369a152baec719878a2097)
 
