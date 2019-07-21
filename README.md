@@ -24,4 +24,4 @@
 - Finished learning about firebase cloud firestore database and creation
 - Finished learning about streams in Dart
 - Finished learning about StreamBuilder in Flutter
-
+- [Finished saving messages in the firebase cloud database](https://github.com/shivenigma/flutter-firebase-chat/commit/1b0e341194672d4e302badb5885d7d9a4b6d1774)
