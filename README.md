@@ -15,4 +15,4 @@
 - [Learnt about Dart copyWith and used it with an constant to reduce repititive code for text box styles](https://github.com/shivenigma/flutter-firebase-chat/commit/602acf142843f8f91442dcd5077bbfb9e506e97c)
 - [Removed dark theme from the app and added text color of button to white to compensate the appearance](https://github.com/shivenigma/flutter-firebase-chat/commit/f6848039f547cade7bdce9fac54bc9fecfb6c70d)
 - [Introduction to firebase and setting up firebase for flutter android project](https://github.com/shivenigma/flutter-firebase-chat/commit/0cf8ec7add36dfe928369a152baec719878a2097)
-
+- [Added firebase plugins for flutter and fixed a compatibility issue in the build which resulted build failure before](https://github.com/shivenigma/flutter-firebase-chat/commit/272aed7bfb783745e1ee0fdb16340564b2525feb)
