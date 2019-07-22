@@ -32,3 +32,6 @@
 ## Day 4
 - [Finished learning about responsive image/container wideget Flexible](https://github.com/shivenigma/flutter-firebase-chat/commit/5312ad66c91ab70f243a13c3c7d0019272fd0b80)
 - [Learnt about stateful and stateless widgets and state in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/82e77fb29b2c878cb9d32ea43b59b6315fcf0797)
+- [Learnt about borderRadius in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
+- [Learnt about Elevation, box shadow in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
+- [Fixed the chat screen UI design and improved it](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
