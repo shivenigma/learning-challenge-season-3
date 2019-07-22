@@ -28,3 +28,6 @@
 - Finished learning about StreamBuilder in Flutter
 - [Finished saving messages in the firebase cloud database](https://github.com/shivenigma/flutter-firebase-chat/commit/1b0e341194672d4e302badb5885d7d9a4b6d1774)
 - [Finished basic chat screen UI](https://github.com/shivenigma/flutter-firebase-chat/commit/4c10353edb618d1d9a87d905d3bd20a5af1e487a)
+
+## Day 4
+- [Finished learning about responsive image/container wideget Flexible](https://github.com/shivenigma/flutter-firebase-chat/commit/5312ad66c91ab70f243a13c3c7d0019272fd0b80)
