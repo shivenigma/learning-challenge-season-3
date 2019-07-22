@@ -35,3 +35,5 @@
 - [Learnt about borderRadius in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
 - [Learnt about Elevation, box shadow in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
 - [Fixed the chat screen UI design and improved it](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
+- Learnt about firebase auth user profile update methods and linking other auth methods 
+- [Started doing a profile screen where the user can update his profile and image](https://github.com/shivenigma/flutter-firebase-chat/commit/815b3bb43596de173ba6ea644f5daddd4fe704d8)
