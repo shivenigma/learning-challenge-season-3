@@ -37,3 +37,4 @@
 - [Fixed the chat screen UI design and improved it](https://github.com/shivenigma/flutter-firebase-chat/commit/7eeb9fde806cd2a453a1473bd6a622581734cb90)
 - Learnt about firebase auth user profile update methods and linking other auth methods 
 - [Started doing a profile screen where the user can update his profile and image](https://github.com/shivenigma/flutter-firebase-chat/commit/815b3bb43596de173ba6ea644f5daddd4fe704d8)
+- [Learnt about text input properties that controls the keyboard in android and iOS](https://github.com/shivenigma/flutter-firebase-chat/commit/64f05cbf136abb5e642f617c5f7263d0fb1369f5)
