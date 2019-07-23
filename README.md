@@ -38,3 +38,8 @@
 - Learnt about firebase auth user profile update methods and linking other auth methods 
 - [Started doing a profile screen where the user can update his profile and image](https://github.com/shivenigma/flutter-firebase-chat/commit/815b3bb43596de173ba6ea644f5daddd4fe704d8)
 - [Learnt about text input properties that controls the keyboard in android and iOS](https://github.com/shivenigma/flutter-firebase-chat/commit/64f05cbf136abb5e642f617c5f7263d0fb1369f5)
+- Learnt about TextInputController
+- Learnt about toUppercase,
+- Learnt about how to conditionally show and hide widgets in Flutter
+- Learnt about Visibility widget
+- [Added editable name filed to the profile screeen, saving is pending](https://github.com/shivenigma/flutter-firebase-chat/commit/2646a31d9ac907d94a7fa521156b0bdb0854b808)
