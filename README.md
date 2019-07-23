@@ -43,4 +43,11 @@
 - Learnt about how to conditionally show and hide widgets in Flutter
 - Learnt about Visibility widget
 - [Added editable name filed to the profile screeen, saving is pending](https://github.com/shivenigma/flutter-firebase-chat/commit/2646a31d9ac907d94a7fa521156b0bdb0854b808)
+
+## Day 5
 - [Added Ability to display username and learnt about firebase nested data sets](https://github.com/shivenigma/flutter-firebase-chat/commit/101860446cdec62f22015bb73a52bee46af5008c)
+- [Learnt about Error and Exception handling in Flutter](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
+- [Handled different error cases with firebase auth like invalid email, account, password](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
+- [Learnt about build context and how to provide a different build context to methods using a Builder](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
+- [Learnt about SnackBar widget and used it to display error messages](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
+- Created a Users collection in firebase to save and manage users and profile details which are not completely supported in firebase auth
