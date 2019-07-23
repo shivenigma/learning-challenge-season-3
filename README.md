@@ -51,3 +51,5 @@
 - [Learnt about build context and how to provide a different build context to methods using a Builder](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
 - [Learnt about SnackBar widget and used it to display error messages](https://github.com/shivenigma/flutter-firebase-chat/commit/533339721281cb9f9a6fb4aaeb64951ad5d99c7c)
 - Created a Users collection in firebase to save and manage users and profile details which are not completely supported in firebase auth
+- Finished learning about firebase auth profile update
+- [Finished adding feature to update user profile](https://github.com/shivenigma/flutter-firebase-chat/commit/fa4346c508d236ad3c945b6428cf5e4cbc087be2)
