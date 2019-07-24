@@ -56,3 +56,6 @@
 
 ## Day 6
 - [Learnt about navigation stack in flutter and prevented the user from going back to login by using back button once logged in](https://github.com/shivenigma/flutter-firebase-chat/commit/838c01c7e4ef9753ecc5314349f1f557049139c2)
+- Learnt about radio buttons and radio tiles](https://github.com/shivenigma/flutter-firebase-chat/commit/e35d480429a47ee17da6ccacd27e603e45bac8e9)
+- [Added redirection logic to register screen](https://github.com/shivenigma/flutter-firebase-chat/commit/69f3ec3366fedab1f29277f6e2f9d2d94e72f137)
+- Added gender field in the profile screen
