@@ -53,3 +53,6 @@
 - Created a Users collection in firebase to save and manage users and profile details which are not completely supported in firebase auth
 - Finished learning about firebase auth profile update
 - [Finished adding feature to update user profile](https://github.com/shivenigma/flutter-firebase-chat/commit/fa4346c508d236ad3c945b6428cf5e4cbc087be2)
+
+## Day 6
+- [Learnt about navigation stack in flutter and prevented the user from going back to login by using back button once logged in](https://github.com/shivenigma/flutter-firebase-chat/commit/838c01c7e4ef9753ecc5314349f1f557049139c2)
