@@ -59,3 +59,4 @@
 - Learnt about radio buttons and radio tiles](https://github.com/shivenigma/flutter-firebase-chat/commit/e35d480429a47ee17da6ccacd27e603e45bac8e9)
 - [Added redirection logic to register screen](https://github.com/shivenigma/flutter-firebase-chat/commit/69f3ec3366fedab1f29277f6e2f9d2d94e72f137)
 - Added gender field in the profile screen
+- [Added a cancel button to the profile screen](https://github.com/shivenigma/flutter-firebase-chat/commit/71a1ad84dceac621ed67e2a235651746f6832804)
